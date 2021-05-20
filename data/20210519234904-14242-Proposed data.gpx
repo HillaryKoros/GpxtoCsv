@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<trk>
+  <name>ProposedDmste</name>
+  <desc>&lt;table cellspacing="0" cellpadding="2" border="1" style="border-collapse:collapse">&lt;tr>&lt;td>&lt;b>id&lt;/b>&lt;/td>&lt;td>1&lt;/td>&lt;/tr>&lt;tr>&lt;td>&lt;b>area&lt;/b>&lt;/td>&lt;td>12048&lt;/td>&lt;/tr>&lt;/table></desc>
+  <trkseg>
+    <trkpt lat="-0.797123851" lon="35.336336746">
+      <ele>1904.768</ele>
+    </trkpt>
+    <trkpt lat="-0.796586134" lon="35.33705919">
+      <ele>1907.66</ele>
+    </trkpt>
+    <trkpt lat="-0.797068982" lon="35.337533809">
+      <ele>1902.705</ele>
+    </trkpt>
+    <trkpt lat="-0.797282972" lon="35.33781547">
+      <ele>1902.272</ele>
+    </trkpt>
+    <trkpt lat="-0.797555489" lon="35.337488084">
+      <ele>1898.25</ele>
+    </trkpt>
+    <trkpt lat="-0.79765151" lon="35.337302444">
+      <ele>1899.192</ele>
+    </trkpt>
+    <trkpt lat="-0.797710037" lon="35.337107658">
+      <ele>1899.809</ele>
+    </trkpt>
+    <trkpt lat="-0.797811545" lon="35.336861661">
+      <ele>1900.181</ele>
+    </trkpt>
+    <trkpt lat="-0.797742044" lon="35.336772042">
+      <ele>1900.589</ele>
+    </trkpt>
+    <trkpt lat="-0.797420145" lon="35.336497696">
+      <ele>1903.174</ele>
+    </trkpt>
+    <trkpt lat="-0.797123851" lon="35.336336746">
+      <ele>1904.768</ele>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>
